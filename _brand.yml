@@ -1,0 +1,37 @@
+# https://posit-dev.github.io/brand-yml/
+# https://quarto.org/docs/authoring/brand.html
+
+color:
+  palette:
+    dark-grey: "#222222"
+    blue: "#99D6EA"
+    deep-blue: "#003E74"
+    pink: "#F2EBEF"
+  background: pink
+  foreground: dark-grey
+  primary: blue
+
+logo:
+  small: logos/logo.png
+  medium: logos/logo.png
+  large: logos/logo.png
+
+typography:
+  fonts:
+    - family: Roboto
+      source: google
+    - family: Jura
+      source: google
+    - family: Rubik
+      source: google
+    - family: PT Serif
+      source: system
+  # base: PT Serif
+  base: Roboto
+  #headings: Jura
+  headings:
+    family: Rubik
+    weight: 500
+    color: gray-100
+  link: 
+    color: deep-blue

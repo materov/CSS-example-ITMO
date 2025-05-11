@@ -1,0 +1,13 @@
+---
+title: "Проект"
+author: [автор]
+lang: ru
+---
+
+# Первая глава
+
+## Параграф
+
+{{< lipsum 1 >}}
+
+[Ссылка](https://quarto.org/docs/authoring/brand.html){target="_blank"} на наш проект.
